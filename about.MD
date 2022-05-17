@@ -1,4 +1,4 @@
-[Home]('/index.MD) | [About](/about.MD)
+[Home]('/) | [About](/about.MD)
 
 # Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit, at.
 
