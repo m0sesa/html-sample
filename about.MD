@@ -1,4 +1,4 @@
-[Home]('./index.MD) | <u>[About](./about.MD)</u>
+[Home]('/index.MD) | [About](/about.MD)
 
 # Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit, at.
 
